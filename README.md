@@ -1,5 +1,7 @@
 # FS-User-Database
 Fullstack User Database
 
-The application lets your add, edit, delete, and view users stored in the database. 
-The backend is a Springboot application with a Rest API and uses an mySQL database.
+The full application lets your add, edit, delete, and view users stored in a database. 
+The backend uses the Spring Framework with a Rest API to make calls to a SQL database.
+The frontend uses React to consume the Rest API calls and display all the information in a
+neat and designed fashion. The React Application uses Bootstrap for most of the design.
